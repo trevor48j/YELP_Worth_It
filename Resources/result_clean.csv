@@ -1,0 +1,111 @@
+,name,cuisine,price,rating
+0,GRANVILLE,American (New),2.0,4.5
+1,Soulmate.,Mediterranean,3.0,4.0
+2,The Front Yard,Tapas/Small Plates,2.0,4.0
+3,Tu Madre - West Hollywood,Mexican,2.0,4.0
+4,Norah,American (New),2.0,4.0
+5,Employees Only,Cocktail Bars,3.0,4.0
+6,OSTE,Italian,,5.0
+7,"The Butcher, The Baker, The Cappuccino Maker",Breakfast & Brunch,2.0,4.0
+8,Republique,French,2.0,4.0
+9,Conservatory,American (New),3.0,4.0
+10,Rosaline,Peruvian,3.0,4.0
+11,Zinqué,French,2.0,4.0
+12,Gracias Madre - West Hollywood,Mexican,2.0,4.0
+13,Stache - West Hollywood,American (New),,4.5
+14,Jon & Vinny’s Fairfax,Italian,2.0,4.0
+15,MIAN | 滋味小面,Chinese,2.0,4.5
+16,LOVE,Noodles,2.0,5.0
+17,Bao Dim Sum House,Dim Sum,2.0,4.0
+18,Toca Madera,Cocktail Bars,3.0,4.0
+19,Pura Vita,Italian,2.0,4.5
+20,Rosaline,Peruvian,3.0,4.0
+21,Stache - West Hollywood,American (New),,4.5
+22,Jon & Vinny’s Fairfax,Italian,2.0,4.0
+23,Met Her At A Bar,Cafes,2.0,4.5
+24,Craig’s,American (New),3.0,4.0
+25,MIAN | 滋味小面,Chinese,2.0,4.5
+26,AOC,Wine Bars,3.0,4.0
+27,Joan’s on Third,Breakfast & Brunch,2.0,4.0
+28,Yardbird Table & Bar,Southern,3.0,4.5
+29,Carlitos Gardel Argentine Steakhouse,Argentine,3.0,4.5
+30,MIAN | 滋味小面,Chinese,2.0,4.5
+31,Caribbean Soul Kitchen LA,Caribbean,,5.0
+32,Dave’s Hot Chicken,Chicken Shop,2.0,4.5
+33,Tesse,Modern European,3.0,4.0
+34,Met Him At A Bar,Italian,2.0,4.5
+35,Kochi,Japanese,2.0,4.5
+36,Kazan,Noodles,2.0,4.5
+37,Sweet Chick,Southern,2.0,4.0
+38,Terrace Restaurant,Restaurants,,4.5
+39,Bottega Louie - WEHO,Bakeries,3.0,4.0
+40,Catch LA,Sushi Bars,3.0,3.5
+41,Izakaya Tora,Sushi Bars,2.0,4.5
+42,Yojimbo,Japanese,2.0,5.0
+43,Bacari W 3rd,American (New),2.0,4.5
+44,Madre,Mexican,2.0,4.0
+45,Fratelli Cafe,Coffee & Tea,2.0,4.5
+46,Hugo’s,American (New),2.0,4.0
+47,Mercado Los Angeles,Mexican,2.0,4.0
+48,The Rooftop by JG,American (New),3.0,4.0
+49,The Village Idiot,Bars,2.0,4.0
+50,Guisados,Mexican,1.0,4.5
+51,Yuko Kitchen,Japanese,2.0,4.5
+52,Grain Traders,American (New),2.0,5.0
+53,1 Kitchen by Chris Crary,American (New),,4.0
+54,Ippudo,Ramen,2.0,4.0
+55,Warrior,Lounges,2.0,4.5
+56,Pinches Tacos,Mexican,2.0,4.0
+57,Blu Jam Café,American (New),2.0,4.0
+58,Comoncy,Coffee & Tea,2.0,4.5
+59,Il Cielo,Italian,3.0,4.0
+60,The Rooftop by JG,American (New),3.0,4.0
+61,Spartina,Italian,3.0,4.0
+62,Issima,Mediterranean,,4.0
+63,Son of a Gun,Seafood,3.0,4.0
+64,Kitchen24,Breakfast & Brunch,2.0,3.5
+65,Il Cielo,Italian,3.0,4.0
+66,Fresh Corn Grill,Pizza,2.0,4.5
+67,Madre,Mexican,2.0,4.0
+68,Fratelli Cafe,Coffee & Tea,2.0,4.5
+69,Severance,Wine Bars,2.0,4.5
+70,WeHo Bistro,French,2.0,4.0
+71,Sweet Chick,Southern,2.0,4.0
+72,A Food Affair,French,2.0,4.5
+73,La Bohème,Bars,3.0,4.0
+74,The Little Door,French,3.0,4.0
+75,Hollywood Burger,Breakfast & Brunch,,4.5
+76,Emilia,Italian,,4.5
+77,Mama Shelter Rooftop Bar,American (New),2.0,3.5
+78,Pinches Tacos,Mexican,2.0,4.0
+79,Yojimbo,Japanese,2.0,5.0
+80,Dialog Cafe,Cafes,2.0,4.5
+81,Phorage WeHo,Vietnamese,2.0,4.0
+82,Barton G The Restaurant - Los Angeles,American (New),3.0,4.0
+83,Caribbean Soul Kitchen LA,Caribbean,,5.0
+84,Metztli Taqueria,Tacos,,5.0
+85,Prospect Gourmand,American (New),2.0,4.5
+86,Marco’s Trattoria,Italian,2.0,4.0
+87,Tasty Noodle House,Noodles,2.0,4.0
+88,Kazan,Noodles,2.0,4.5
+89,Bossa Nova on Sunset,Brazilian,2.0,3.5
+90,Metztli Taqueria,Tacos,,5.0
+91,Spago,American (New),3.0,4.0
+92,Issima,Mediterranean,,4.0
+93,Cecconi’s West Hollywood,Italian,3.0,3.5
+94,Phorage WeHo,Vietnamese,2.0,4.0
+95,Kitchen24,Breakfast & Brunch,2.0,3.5
+96,Casablanca Moroccan kitchens,Moroccan,,5.0
+97,EP & LP,Asian Fusion,3.0,3.0
+98,Marco’s Trattoria,Italian,2.0,4.0
+99,Saint Felix,American (New),2.0,4.0
+100,Nonna’s Empanadas,Empanadas,1.0,4.0
+101,EP & LP,Asian Fusion,3.0,3.0
+102,Connie & Ted’s,Seafood,3.0,4.0
+103,Badmaash - Fairfax,Indian,2.0,4.0
+104,The Phoenix,Lounges,2.0,4.0
+105,Emilia,Italian,,4.5
+106,Uovo- Mid-Wilshire,Italian,2.0,4.5
+107,Beauty & Essex,Lounges,3.0,4.0
+108,Mama Shelter Rooftop Bar,American (New),2.0,3.5
+109,Three Borders Brunch & Grill,Breakfast & Brunch,2.0,5.0
